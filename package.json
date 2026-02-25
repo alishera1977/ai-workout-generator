@@ -1,0 +1,1 @@
+{"name":"ai-workout-generator","private":true,"version":"1.0.0","description":"AI-powered workout program generator based on client questionnaire","workspaces":["packages/frontend","packages/backend"],"scripts":{"dev":"npm run dev --workspaces","build":"npm run build --workspaces","test":"npm run test --workspaces"}}
